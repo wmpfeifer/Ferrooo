@@ -1,7 +1,7 @@
 # Ferrooo
 
 ### Linguagem:
-- Go (1.25.5 amd64)
+- Go (1.24.5 amd64)
 
 ### Bibliotecas: 
 - SonicJson;
