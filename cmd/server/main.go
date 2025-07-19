@@ -2,11 +2,11 @@ package main
 
 import (
 	"log"
-	"rinha-backend-2025/internal/config"
-	"rinha-backend-2025/internal/database"
-	"rinha-backend-2025/internal/handlers"
-	"rinha-backend-2025/internal/repository"
-	"rinha-backend-2025/internal/services"
+	"backend/internal/config"
+	"backend/internal/database"
+	"backend/internal/handlers"
+	"backend/internal/repository"
+	"backend/internal/services"
 
 	"github.com/bytedance/sonic"
 	"github.com/gofiber/fiber/v2"
